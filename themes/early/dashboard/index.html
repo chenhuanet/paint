@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="dark" data-lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d0c0b">
+<meta name="description" content="主题、子线索、地域、来源与新增件的实时统计；空缺和偏薄不隐藏。">
+<title>主题平衡看板 · 绘画 · 尘画</title>
+<link rel="canonical" href="https://paint.chenhua.net/themes/early/dashboard/">
+<link rel="alternate" hreflang="zh-CN" href="https://paint.chenhua.net/themes/early/dashboard/">
+<link rel="alternate" hreflang="en" href="https://paint.chenhua.net/themes/early/dashboard/?lang=en">
+<link rel="icon" type="image/svg+xml" href="/assets/leaf/favicon.svg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="主题平衡看板 · 绘画 · 尘画">
+<meta property="og:description" content="主题、子线索、地域、来源与新增件的实时统计；空缺和偏薄不隐藏。">
+<meta property="og:url" content="https://paint.chenhua.net/themes/early/dashboard/">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="en_US">
+<script>(function(){try{function ck(n){var m=document.cookie.match(new RegExp("(?:^|; )"+n+"=([^;]*)"));return m?decodeURIComponent(m[1]):""}var q=new URLSearchParams(location.search).get("lang");var l=q||ck("chenhua-lang")||localStorage.getItem("chenhua-lang")||"zh";if(l==="en"){document.documentElement.setAttribute("data-lang","en");document.documentElement.lang="en"}else{document.documentElement.setAttribute("data-lang","zh");document.documentElement.lang="zh-CN"}var t=ck("chenhua-theme")||localStorage.getItem("chenhua-theme");if(t!=="light"&&t!=="dark")t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: light)").matches?"light":"dark";document.documentElement.setAttribute("data-theme",t)}catch(e){}})();</script>
+<link rel="stylesheet" href="/assets/app.css?v=20261124a">
+<link rel="stylesheet" href="/assets/static.css?v=20261124a">
+<link rel="stylesheet" href="/assets/history.css?v=20261124a">
+<style>
+.early-wrap{max-width:1180px;margin:0 auto;padding:28px clamp(18px,3vw,40px) 44px}
+.early-wrap .g-back{margin:0 0 14px;font-size:11px;color:var(--dim)}
+.early-wrap .g-back a{color:var(--muted);text-decoration:none}
+.early-wrap .g-back a:hover{color:var(--accent)}
+.early-wrap .kicker{font-size:10px;letter-spacing:.16em;color:var(--accent);text-transform:uppercase;margin:0 0 6px}
+.early-wrap h1{font-family:var(--serif);font-weight:400;font-size:clamp(30px,5vw,48px);letter-spacing:.05em;line-height:1.25;margin:0 0 10px}
+.early-wrap .lede{max-width:760px;font-size:13px;line-height:1.95;color:var(--muted);margin:0 0 18px}
+.early-wrap .stats{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 24px}
+.early-wrap .stats span{border:1px solid var(--line);border-radius:999px;padding:5px 10px;font-size:10px;color:var(--muted)}
+.early-wrap .mods{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 30px}
+.early-wrap .mods a{border:1px solid var(--line);border-radius:999px;padding:6px 11px;font-size:11px;color:var(--text);text-decoration:none}
+.early-wrap .mods a:hover{border-color:var(--accent);color:var(--accent)}
+.early-wrap section{margin:38px 0 0;padding-top:20px;border-top:1px solid var(--line)}
+.early-wrap section h2{font-family:var(--serif);font-weight:400;font-size:23px;letter-spacing:.04em;margin:0 0 8px}
+.early-wrap section h2 .n{font-family:var(--sans);font-size:10px;color:var(--dim);margin-left:8px;letter-spacing:.08em}
+.early-wrap section .sub{max-width:720px;font-size:12px;line-height:1.9;color:var(--muted);margin:0 0 14px}
+.early-wrap .grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.early-wrap .grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}
+.early-wrap .g-card{display:block;overflow:hidden;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);text-decoration:none;min-width:0}
+.early-wrap .g-card .pic{background:var(--pic-bg);min-height:70px;overflow:hidden}
+.early-wrap .g-card .pic img{width:100%;height:auto;display:block;transition:transform .5s}
+.early-wrap .g-card:hover .pic img{transform:scale(1.02)}
+.early-wrap .g-card .body{padding:9px 10px 10px}
+.early-wrap .g-card .yr{font-family:var(--serif);font-size:11px;color:var(--accent);letter-spacing:.08em}
+.early-wrap .g-card h3{font-family:var(--serif);font-weight:400;font-size:13.5px;line-height:1.45;margin:3px 0 5px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.early-wrap .g-card .meta{display:flex;gap:5px;flex-wrap:wrap;font-size:9px;color:var(--dim)}
+.early-wrap .g-card .tag{font-size:9px;padding:2px 6px;border:1px solid var(--line);border-radius:999px;color:var(--dim)}
+.early-wrap .tag.new{border-color:var(--accent);color:var(--accent)}
+.early-wrap table{width:100%;border-collapse:collapse;font-size:11.5px;margin:6px 0 10px}
+.early-wrap th,.early-wrap td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);color:var(--muted)}
+.early-wrap th{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--dim);font-weight:400}
+.early-wrap .note{font-size:11px;line-height:1.85;color:var(--dim);border-left:2px solid var(--line);padding:4px 0 4px 12px;margin:18px 0}
+.early-wrap .g-en-cell{color:var(--dim);font-size:9px;margin-left:5px}
+.early-wrap .g-guide{max-width:880px;margin:0 auto;padding:8px 0 38px}
+.early-wrap .g-guide .g-kicker{font-size:10px;letter-spacing:.16em;color:var(--accent);text-transform:uppercase;margin:0 0 8px}
+.early-wrap .g-guide h1{font-family:var(--serif);font-weight:400;font-size:clamp(30px,5vw,48px);letter-spacing:.05em;line-height:1.25;margin:0 0 12px}
+.early-wrap .g-guide .g-lede{font-size:13px;line-height:1.95;color:var(--muted);max-width:660px;margin:0 0 22px}
+.early-wrap .g-guide .g-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:0 0 28px;background:var(--line)}
+.early-wrap .g-guide .g-stat{background:var(--surface);padding:13px 14px}
+.early-wrap .g-guide .g-stat b{display:block;font-family:var(--serif);font-weight:400;font-size:24px;color:var(--accent);line-height:1.2}
+.early-wrap .g-guide .g-stat span{display:block;margin-top:3px;font-size:9px;letter-spacing:.08em;color:var(--dim);text-transform:uppercase}
+.early-wrap .g-guide h2{font-family:var(--serif);font-weight:400;font-size:22px;letter-spacing:.04em;margin:30px 0 10px;padding-top:16px;border-top:1px solid var(--line)}
+.early-wrap .g-guide h3{font-family:var(--serif);font-weight:400;font-size:15px;letter-spacing:.03em;margin:18px 0 6px;color:var(--text)}
+.early-wrap .g-guide p{font-size:12.5px;line-height:1.95;color:var(--muted);margin:0 0 10px}
+.early-wrap .g-guide ul{list-style:none;padding:0;margin:8px 0 0;display:grid;gap:7px}
+.early-wrap .g-guide li{font-size:12px;line-height:1.8;color:var(--muted)}
+.early-wrap .g-guide li a{color:var(--text);border-bottom:1px solid var(--line)}
+.early-wrap .g-guide li a:hover{color:var(--accent);border-color:var(--accent)}
+.early-wrap .g-guide table{width:100%;border-collapse:collapse;margin:8px 0 4px;font-size:11.5px}
+.early-wrap .g-guide th{text-align:left;font-size:9px;letter-spacing:.1em;color:var(--dim);font-weight:400;text-transform:uppercase;padding:7px 8px;border-bottom:1px solid var(--line)}
+.early-wrap .g-guide td{padding:7px 8px;border-bottom:1px solid var(--line);color:var(--muted)}
+@media(max-width:900px){.early-wrap{padding:22px 18px 38px}.early-wrap .grid{grid-template-columns:repeat(2,minmax(0,1fr))}.early-wrap .g-guide .g-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>
+</head>
+<body class="static-body ph-body" data-title-zh="主题平衡看板 · 绘画 · 尘画" data-title-en="Theme Balance Dashboard · Painting · Frame &amp; Grain" data-desc-zh="主题、子线索、地域、来源与新增件的实时统计；空缺和偏薄不隐藏。" data-desc-en="主题、子线索、地域、来源与新增件的实时统计；空缺和偏薄不隐藏。">
+<div class="s-shell">
+<header class="appbar s-appbar">
+<a class="brand" href="/"><img class="leaf-mark brand-mark" src="/assets/leaf/proud.svg" width="30" height="30" alt="" aria-hidden="true" decoding="async"><span class="wm"><span class="wm-lite">出</span><span class="wm-strong">尘</span><span class="wm-lite">入</span><span class="wm-strong">画</span></span><span class="sub"><span data-l="zh">绘画史 · 400–1930</span><span data-l="en">A History of Painting</span></span></a>
+<nav class="desknav"><a href="/themes/"><span data-l="zh">主题</span><span data-l="en">Themes</span></a><a href="/history/timeline.html"><span data-l="zh">时间线</span><span data-l="en">Timeline</span></a><a href="/history/calendar.html"><span data-l="zh">日历</span><span data-l="en">Calendar</span></a><a href="https://photo.chenhua.net/"><span data-l="zh">摄影</span><span data-l="en">Photography</span></a><a href="/"><span data-l="zh">绘画</span><span data-l="en">Painting</span></a><a href="https://netcn.org/"><span data-l="zh">导航</span><span data-l="en">Directory</span></a></nav>
+<div class="right"><button class="langbtn" type="button" data-lang-toggle aria-label="切换到英文"><span data-l="zh">EN</span><span data-l="en">中文</span></button><button class="iconbtn themebtn" type="button" data-themebtn aria-label="切换明暗"><svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5z"/></svg></button></div>
+</header>
+<main class="ph-shell"><div class="early-wrap">
+<p class="g-back"><a href="https://paint.chenhua.net/themes/early/">← 返回主题</a> · <a href="https://paint.chenhua.net/themes/early/regions/gaps/">区域缺口</a></p><p class="kicker"><span data-l="zh">主题平衡 · 1800 年前</span><span data-l="en">Theme balance · before 1800</span></p><h1><span data-l="zh">主题平衡看板</span><span data-l="en">Theme Balance Dashboard</span></h1><p class="lede"><span data-l="zh">总账：442 件，新增 142 件，6 个主题，10 个地域。这里区分“本轮范围完成”和“主题总账剩余”，不拿一个总数掩盖空档。</span><span data-l="en">Total 442 works, 142 new, 6 themes, 10 regions. This page separates what this round completed from what the theme ledger still lacks.</span></p><div class="stats"><span>总账 442</span><span>本轮新增 142</span><span>来源 3</span><span>时段 236</span></div><section><h2><span data-l="zh">六个主题</span><span data-l="en">Six themes</span></h2><table><thead><tr><th>主题</th><th>件数</th><th>3 件以上子线索</th></tr></thead><tbody><tr><td><a href="https://paint.chenhua.net/themes/early/faith/">信仰与图像</a></td><td>54</td><td>5</td></tr><tr><td><a href="https://paint.chenhua.net/themes/early/landscape/">山水与自然</a></td><td>76</td><td>3</td></tr><tr><td><a href="https://paint.chenhua.net/themes/early/portrait/">人物与自我</a></td><td>107</td><td>7</td></tr><tr><td><a href="https://paint.chenhua.net/themes/early/city/">城市与日常</a></td><td>46</td><td>6</td></tr><tr><td><a href="https://paint.chenhua.net/themes/early/word/">文字与观看</a></td><td>86</td><td>5</td></tr><tr><td><a href="https://paint.chenhua.net/themes/early/material/">材料与技法</a></td><td>73</td><td>4</td></tr></tbody></table></section><section><h2><span data-l="zh">子线索</span><span data-l="en">Sub-threads</span></h2><table><thead><tr><th>主题</th><th>子线索</th><th>件数</th><th>状态</th></tr></thead><tbody><tr><td>人物与自我</td><td>肖像</td><td>53</td><td>达标</td></tr><tr><td>人物与自我</td><td>宫廷人物</td><td>16</td><td>达标</td></tr><tr><td>人物与自我</td><td>女性</td><td>13</td><td>达标</td></tr><tr><td>人物与自我</td><td>身体与服饰</td><td>9</td><td>达标</td></tr><tr><td>人物与自我</td><td>死亡与记忆</td><td>5</td><td>达标</td></tr><tr><td>人物与自我</td><td>无名者</td><td>4</td><td>达标</td></tr><tr><td>人物与自我</td><td>供养人</td><td>3</td><td>达标</td></tr><tr><td>人物与自我</td><td>家庭与儿童</td><td>2</td><td>偏薄</td></tr><tr><td>人物与自我</td><td>自画像</td><td>2</td><td>偏薄</td></tr><tr><td>信仰与图像</td><td>神圣人物</td><td>18</td><td>达标</td></tr><tr><td>信仰与图像</td><td>圣母子</td><td>10</td><td>达标</td></tr><tr><td>信仰与图像</td><td>佛与菩萨</td><td>8</td><td>达标</td></tr><tr><td>信仰与图像</td><td></td><td>7</td><td>达标</td></tr><tr><td>信仰与图像</td><td>圣徒与先知</td><td>5</td><td>达标</td></tr><tr><td>信仰与图像</td><td>印度神祇</td><td>2</td><td>偏薄</td></tr><tr><td>信仰与图像</td><td>仪式空间</td><td>2</td><td>偏薄</td></tr><tr><td>信仰与图像</td><td>经典与书</td><td>2</td><td>偏薄</td></tr><tr><td>城市与日常</td><td>街道</td><td>24</td><td>达标</td></tr><tr><td>城市与日常</td><td>战争与灾难</td><td>6</td><td>达标</td></tr><tr><td>城市与日常</td><td>节庆</td><td>5</td><td>达标</td></tr><tr><td>城市与日常</td><td>时间与日常</td><td>4</td><td>达标</td></tr><tr><td>城市与日常</td><td>市场</td><td>3</td><td>达标</td></tr><tr><td>城市与日常</td><td>日常空间</td><td>3</td><td>达标</td></tr><tr><td>城市与日常</td><td>港口</td><td>1</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>山</td><td>51</td><td>达标</td></tr><tr><td>山水与自然</td><td>水</td><td>11</td><td>达标</td></tr><tr><td>山水与自然</td><td>动物与宫廷</td><td>5</td><td>达标</td></tr><tr><td>山水与自然</td><td>海与港口</td><td>2</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>动植物</td><td>2</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>废墟与岩景</td><td>2</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>山路与行旅</td><td>1</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>园林</td><td>1</td><td>偏薄</td></tr><tr><td>山水与自然</td><td>沙漠</td><td>1</td><td>偏薄</td></tr><tr><td>文字与观看</td><td>书籍装帧</td><td>47</td><td>达标</td></tr><tr><td>文字与观看</td><td>手抄本</td><td>21</td><td>达标</td></tr><tr><td>文字与观看</td><td>书法</td><td>8</td><td>达标</td></tr><tr><td>文字与观看</td><td>印刷与版画</td><td>5</td><td>达标</td></tr><tr><td>文字与观看</td><td>图像如何旅行</td><td>4</td><td>达标</td></tr><tr><td>文字与观看</td><td>题跋</td><td>1</td><td>偏薄</td></tr><tr><td>材料与技法</td><td>材料</td><td>57</td><td>达标</td></tr><tr><td>材料与技法</td><td>细密画</td><td>3</td><td>达标</td></tr><tr><td>材料与技法</td><td>金箔</td><td>3</td><td>达标</td></tr><tr><td>材料与技法</td><td>素描</td><td>3</td><td>达标</td></tr><tr><td>材料与技法</td><td>木刻</td><td>2</td><td>偏薄</td></tr><tr><td>材料与技法</td><td>绢纸</td><td>2</td><td>偏薄</td></tr><tr><td>材料与技法</td><td>光与材料</td><td>2</td><td>偏薄</td></tr><tr><td>材料与技法</td><td>木板</td><td>1</td><td>偏薄</td></tr><tr><td>材料与技法</td><td>壁画</td><td>0</td><td>空缺</td></tr><tr><td>材料与技法</td><td>湿壁画</td><td>0</td><td>空缺</td></tr></tbody></table></section><section><h2><span data-l="zh">地域</span><span data-l="en">Regions</span></h2><table><thead><tr><th>地域</th><th>件数</th><th>年段</th></tr></thead><tbody><tr><td>欧洲</td><td>150</td><td>108</td></tr><tr><td>中国</td><td>125</td><td>64</td></tr><tr><td>南亚</td><td>97</td><td>44</td></tr><tr><td>东亚</td><td>39</td><td>29</td></tr><tr><td>西亚·北非</td><td>14</td><td>7</td></tr><tr><td>跨地域</td><td>11</td><td>8</td></tr><tr><td>撒哈拉以南非洲</td><td>2</td><td>2</td></tr><tr><td>中亚</td><td>2</td><td>2</td></tr><tr><td>中南美</td><td>1</td><td>1</td></tr><tr><td>北美</td><td>1</td><td>1</td></tr></tbody></table></section><section><h2><span data-l="zh">来源</span><span data-l="en">Sources</span></h2><table><thead><tr><th>来源</th><th>件数</th><th>占比</th></tr></thead><tbody><tr><td>克利夫兰艺术博物馆</td><td>390</td><td>88%</td></tr><tr><td>维基共享资源</td><td>42</td><td>10%</td></tr><tr><td>大都会艺术博物馆</td><td>10</td><td>2%</td></tr></tbody></table></section><p class="note"><span data-l="zh">来源集中度仍是本轮未解问题：克利夫兰占比过高。下一轮优先换开放馆藏，不以“补数量”掩盖来源单一。</span><span data-l="en">Source concentration remains unresolved: Cleveland dominates. The next round should change sources, not hide concentration behind more records.</span></p></div></main></div>
+<footer class="site-foot">
+<div class="sf-left"><span data-l="zh">© 2026 尘画 · <a href="https://chenhua.net">chenhua.net</a></span><span data-l="en">© 2026 Frame &amp; Grain · <a href="https://chenhua.net">chenhua.net</a></span></div>
+<nav class="sf-nav" aria-label="站内导航"><a href="https://chenhua.net/"><span data-l="zh">出尘入画</span><span data-l="en">Frame &amp; Grain</span></a><a href="https://chenhua.net/images/"><span data-l="zh">图片库</span><span data-l="en">Image Library</span></a><a href="/themes/"><span data-l="zh">主题</span><span data-l="en">Themes</span></a><a href="/history/timeline.html"><span data-l="zh">时间线</span><span data-l="en">Timeline</span></a><a href="/history/calendar.html"><span data-l="zh">日历</span><span data-l="en">Calendar</span></a><a href="https://photo.chenhua.net/"><span data-l="zh">摄影</span><span data-l="en">Photography</span></a><a href="/"><span data-l="zh">绘画</span><span data-l="en">Painting</span></a></nav>
+<div class="sf-right"><a href="/legal/"><span data-l="zh">免责条款</span><span data-l="en">Disclaimer</span></a></div>
+</footer>
+<script src="/assets/site.js?v=20261124a"></script>
+</body></html>
