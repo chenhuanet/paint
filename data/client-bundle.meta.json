@@ -1,11 +1,11 @@
 {
   "site": "paint",
   "file": "client-bundle.js",
-  "records": 573,
+  "records": 566,
   "stories": 0,
-  "notes": 573,
-  "search_records": 573,
+  "notes": 566,
+  "search_records": 566,
   "search_stories": 0,
-  "bytes": 472594,
-  "sha256": "28b4374d602049cab8751f350cf612089e68a894b546c2377cfa158779381ff3"
+  "bytes": 466995,
+  "sha256": "38c87788a9d6ce9e9ba2bdf221b83357a069754b5a8035cf23294640fca515f5"
 }

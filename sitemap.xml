@@ -1,42 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://paint.chenhua.net/gallery/</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-aivazovsky.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-andrea-del-sarto.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-beckmann.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-botticelli.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-bruegel.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-caravaggio.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-cezanne.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-chardin.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-courbet.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-cranach.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-david.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-durer.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-eishi.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-el-greco.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-fan-kuan.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-fra-filippo-lippi.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-giotto.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-goya.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-gris.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-gu-kaizhi.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-harunobu.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-hokusai.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-hua-yan.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-huang-gongwang.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-kandinsky.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-kirchner.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-klimt.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-leonardo.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-ma-yuan.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-malevich.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-manet.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-michelangelo.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-mondrian.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-monet.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-munch.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-muqi.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-ni-zan.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-pissarro.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-posada.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-raphael.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-rembrandt.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-rubens.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-schiele.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-sesshu.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-shen-zhou.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-shitao.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-sotatsu.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-titian.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-turner.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-van-der-weyden.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-van-eyck.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-van-gogh.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-velazquez.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-vermeer.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-watteau.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-whistler.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-wood.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-xu-beihong.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artist-zhang-zeduan.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/artist-zorn.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/artists.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/calendar.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/chapter-01-line-awakening.html</loc></url>
@@ -53,6 +77,14 @@
   <url><loc>https://paint.chenhua.net/history/chapter-12-mountains-and-scrolls.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/chapter-13-waves-of-ukiyo-e.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/chapter-14-new-world-fable.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/chapter-15-ming-qing-literati.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/chapter-16-japan-south-asia.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/chapter-17-modernism-fracture.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/chapter-18-postwar-contemporary.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/dialogue-blank-and-dark.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/dialogue-city-and-crowd.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/dialogue-line-and-faith.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/dialogues.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/exhibition-early-city-daily.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/exhibition-early-death-memory.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/exhibition-early-europe-faith.html</loc></url>
@@ -64,18 +96,27 @@
   <url><loc>https://paint.chenhua.net/history/exhibition-early-women-visible.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/exhibition-early-word-scroll.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-art-nouveau.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-baroque.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-cubism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-early-renaissance.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-expressionism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-high-renaissance.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-impressionism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-mannerism.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-ming-literati.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-mughal-miniature.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-neoclassicism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-northern-renaissance.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-persian-miniature.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-post-impressionism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-realism.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-rinpa.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-rococo.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-romanticism.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-song-bluegreen.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-song-genre.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/movement-song-landscape.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-symbolism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-ukiyo-e.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/movement-yuan-literati.html</loc></url>
@@ -87,18 +128,67 @@
   <url><loc>https://paint.chenhua.net/history/period-1800-1880.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/period-1880-1914.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/period-1914-1930.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/period-1930-1945.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/period-1945-1970.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/period-1970-2026.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/period-400-1300.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/periods.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-botticelli-venus.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-bruegel-babel.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-caravaggio-matthew.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-courbet-studio.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-durer-self.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-fan-travelers.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-giotto-lamentation.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-goya-third.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-gu-admonitions.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-hokusai-wave.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-huang-fuchun.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-klimt-kiss.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-leonardo-mona-lisa.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-ma-deer.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-michelangelo-adam.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-monet-sunrise.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-muqi-willow.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-ni-woods.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-raphael-athens.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-rembrandt-night-watch.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-shen-loft-lu.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-titian-magi.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-turner-temeraire.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-van-eyck-arnolfini.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-van-gogh-starry.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-velazquez-meninas.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-vermeer-pearl.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-wang-thousand-li.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-xu-tianheng.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/reading-zhang-qingming.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/readings.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-britain.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-china.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-france.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-german-speaking.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-iberia.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-italy.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-japan.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/region-low-countries.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/regions.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-aerial-perspective.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-chiaroscuro.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-collage.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-engraving.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-fresco.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-glazing.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-gold-ground.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-impasto.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-ink.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-linear-perspective.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-lithography.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-oil.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-scroll-mounting.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-sfumato.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-tempera.html</loc></url>
+  <url><loc>https://paint.chenhua.net/history/technique-tenebrism.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-watercolor.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/technique-woodblock.html</loc></url>
   <url><loc>https://paint.chenhua.net/history/techniques.html</loc></url>
@@ -187,7 +277,6 @@
   <url><loc>https://paint.chenhua.net/painting/botticelli-birth-of-venus-1485.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/botticelli-primavera-1480.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/boucher-music-dance-1740.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bronzino-portrait-woman-1550.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/bruegel-hunters-in-snow-1565.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/bruegel-tower-of-babel-1563.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/budai-1460.html</loc></url>
@@ -389,7 +478,6 @@
   <url><loc>https://paint.chenhua.net/painting/durer-self-portrait-1500.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/dwelling-in-the-longmian-sleeping-dragon-mountains-1100.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/eighteen-views-of-huzhou-1583.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/el-greco-christ-cross-1600.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/el-greco-view-of-toledo-1600.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/emperor-minghuang-teaching-yang-gueifei-to-play-the-flute-1460.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/fan-kuan-travelers-1025.html</loc></url>
@@ -445,7 +533,6 @@
   <url><loc>https://paint.chenhua.net/painting/inp-voronet-1488.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/isfandiyar-slays-arjasp-the-king-of-turan-from-a-shah-nama-boo-1600.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/jain-ascetic-walking-along-a-riverbank-1595.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/juran-buddhist-retreat-975.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/kamisaka-chrysanthemum-boy-1909.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/kandinsky-composition-vii-1913.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/kingfisher-perched-above-a-stream-1460.html</loc></url>
@@ -486,7 +573,6 @@
   <url><loc>https://paint.chenhua.net/painting/met-457804-1605.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/met-822698-1570.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/met-825727-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/meynier-apollo-urania-1798.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/michelangelo-creation-of-adam-1511.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/millet-the-gleaners-1857.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/mondrian-composition-red-blue-yellow-1930.html</loc></url>
@@ -502,7 +588,6 @@
   <url><loc>https://paint.chenhua.net/painting/mural-fragment-with-elite-male-and-maguey-cactus-leaves-500.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/nagarjuna-c-150-250-ce-with-a-buddhist-master-1300.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/narcissus-and-rocks-1368.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ni-zan-bamboo-rock-1350.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/ni-zan-woods-valleys-1355.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/oerder-still-life-1900.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/old-trees-by-a-cool-spring-1326.html</loc></url>
@@ -631,7 +716,6 @@
   <url><loc>https://paint.chenhua.net/painting/the-young-prince-is-crowned-and-the-wicked-handmaiden-is-execu-1555.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/the-young-prince-recounts-his-experiences-to-his-father-the-ki-1555.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/tiger-flight-spring-at-the-back-gate-from-twelve-views-of-tige-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/titian-adoration-magi-1520.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/titian-submersion-pharaoh-1549.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/travelers-by-a-lake-1625.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/travelers-in-autumn-mountains-1310.html</loc></url>
@@ -659,7 +743,6 @@
   <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-1225.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-and-donors-1510.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/votive-initiation-card-tsakali-with-preaching-buddha-shakyamun-1000.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wang-meng-writing-books-1350.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/wang-ximeng-thousand-li-1113.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/watching-the-deer-by-a-pine-shaded-stream-1127.html</loc></url>
   <url><loc>https://paint.chenhua.net/painting/water-moon-kannon-1490.html</loc></url>
@@ -696,4 +779,207 @@
   <url><loc>https://paint.chenhua.net/records/pre1400/</loc></url>
   <url><loc>https://chenhua.net/search/?scope=paintings</loc></url>
   <url><loc>https://paint.chenhua.net/stories/</loc></url>
+<!-- PAINT_HISTORY_START -->
+<url><loc>https://paint.chenhua.net/history/</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-01-line-awakening.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-02-from-divine-to-human.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-03-northern-mirror.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-04-drama-and-power.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-05-pleasure-and-enlightenment.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-06-reason-and-storm.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-07-seeing-ordinary.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-08-light-and-instant.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-09-dismantle-and-rebuild.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-10-inner-theatre.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-11-cubism-and-abstraction.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-12-mountains-and-scrolls.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-13-waves-of-ukiyo-e.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-14-new-world-fable.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-15-ming-qing-literati.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-16-japan-south-asia.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-17-modernism-fracture.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/chapter-18-postwar-contemporary.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-early-renaissance.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-high-renaissance.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-northern-renaissance.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-mannerism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-baroque.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-rococo.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-neoclassicism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-romanticism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-realism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-impressionism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-post-impressionism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-symbolism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-yuan-literati.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-ukiyo-e.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-expressionism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-song-landscape.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-song-genre.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-song-bluegreen.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-ming-literati.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-rinpa.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-mughal-miniature.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-persian-miniature.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-art-nouveau.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movement-cubism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-gu-kaizhi.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-fan-kuan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-zhang-zeduan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-huang-gongwang.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-ni-zan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-giotto.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-van-eyck.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-botticelli.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-leonardo.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-michelangelo.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-raphael.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-titian.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-durer.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-bruegel.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-caravaggio.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-rembrandt.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-vermeer.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-velazquez.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-watteau.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-chardin.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-david.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-goya.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-turner.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-courbet.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-manet.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-monet.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-van-gogh.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-cezanne.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-munch.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-klimt.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-kandinsky.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-malevich.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-gris.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-mondrian.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-hokusai.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-wood.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-shen-zhou.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-hua-yan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-ma-yuan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-muqi.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-sesshu.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-sotatsu.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-harunobu.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-eishi.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-el-greco.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-rubens.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-van-der-weyden.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-fra-filippo-lippi.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-andrea-del-sarto.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-cranach.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-aivazovsky.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-pissarro.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-whistler.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-zorn.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-posada.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-kirchner.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-beckmann.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-schiele.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-shitao.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artist-xu-beihong.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-400-1300.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1300-1500.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1500-1600.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1600-1700.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1700-1800.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1800-1880.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1880-1914.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1914-1930.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1930-1945.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1945-1970.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/period-1970-2026.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-fresco.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-tempera.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-oil.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-watercolor.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-woodblock.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-ink.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-linear-perspective.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-aerial-perspective.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-chiaroscuro.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-glazing.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-impasto.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-collage.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-gold-ground.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-sfumato.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-tenebrism.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-engraving.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-lithography.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/technique-scroll-mounting.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-light.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-body.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-city.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-nature.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-faith.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-war.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-portrait.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trail-everyday.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-gu-admonitions.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-fan-travelers.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-zhang-qingming.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-wang-thousand-li.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-shen-loft-lu.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-ma-deer.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-muqi-willow.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-huang-fuchun.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-ni-woods.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-giotto-lamentation.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-van-eyck-arnolfini.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-botticelli-venus.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-leonardo-mona-lisa.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-michelangelo-adam.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-raphael-athens.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-titian-magi.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-durer-self.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-bruegel-babel.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-caravaggio-matthew.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-rembrandt-night-watch.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-vermeer-pearl.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-velazquez-meninas.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-goya-third.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-turner-temeraire.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-courbet-studio.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-monet-sunrise.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-van-gogh-starry.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-hokusai-wave.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-klimt-kiss.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/reading-xu-tianheng.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-italy.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-low-countries.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-france.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-german-speaking.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-britain.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-iberia.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-china.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/region-japan.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/dialogue-line-and-faith.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/dialogue-city-and-crowd.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/dialogue-blank-and-dark.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/movements.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/artists.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/periods.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/techniques.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/trails.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/readings.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/regions.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/dialogues.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/timeline.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/calendar.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-landscape-self.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-europe-faith.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-other-tradition.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-word-scroll.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-material.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-city-daily.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-ports-markets.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-death-memory.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-women-visible.html</loc><lastmod>2026-11-25</lastmod></url>
+<url><loc>https://paint.chenhua.net/history/exhibition-early-gold-light.html</loc><lastmod>2026-11-25</lastmod></url>
+<!-- PAINT_HISTORY_END -->
 </urlset>
