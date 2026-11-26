@@ -1,786 +1,615 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://paint.chenhua.net/gallery/</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-aivazovsky.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-andrea-del-sarto.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-beckmann.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-botticelli.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-bruegel.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-caravaggio.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-cezanne.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-chardin.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-courbet.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-cranach.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-david.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-durer.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-eishi.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-el-greco.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-fan-kuan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-fra-filippo-lippi.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-giotto.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-goya.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-gris.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-gu-kaizhi.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-harunobu.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-hokusai.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-hua-yan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-huang-gongwang.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-kandinsky.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-kirchner.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-klimt.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-leonardo.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-ma-yuan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-malevich.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-manet.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-michelangelo.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-mondrian.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-monet.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-munch.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-muqi.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-ni-zan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-pissarro.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-posada.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-raphael.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-rembrandt.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-rubens.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-schiele.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-sesshu.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-shen-zhou.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-shitao.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-sotatsu.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-titian.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-turner.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-van-der-weyden.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-van-eyck.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-van-gogh.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-velazquez.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-vermeer.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-watteau.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-whistler.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-wood.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-xu-beihong.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-zhang-zeduan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artist-zorn.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/artists.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/calendar.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-01-line-awakening.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-02-from-divine-to-human.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-03-northern-mirror.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-04-drama-and-power.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-05-pleasure-and-enlightenment.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-06-reason-and-storm.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-07-seeing-ordinary.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-08-light-and-instant.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-09-dismantle-and-rebuild.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-10-inner-theatre.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-11-cubism-and-abstraction.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-12-mountains-and-scrolls.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-13-waves-of-ukiyo-e.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-14-new-world-fable.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-15-ming-qing-literati.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-16-japan-south-asia.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-17-modernism-fracture.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/chapter-18-postwar-contemporary.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/dialogue-blank-and-dark.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/dialogue-city-and-crowd.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/dialogue-line-and-faith.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/dialogues.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-city-daily.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-death-memory.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-europe-faith.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-gold-light.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-landscape-self.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-material.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-other-tradition.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-ports-markets.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-women-visible.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/exhibition-early-word-scroll.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-art-nouveau.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-baroque.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-cubism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-early-renaissance.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-expressionism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-high-renaissance.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-impressionism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-mannerism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-ming-literati.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-mughal-miniature.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-neoclassicism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-northern-renaissance.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-persian-miniature.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-post-impressionism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-realism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-rinpa.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-rococo.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-romanticism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-song-bluegreen.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-song-genre.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-song-landscape.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-symbolism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-ukiyo-e.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movement-yuan-literati.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/movements.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1300-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1500-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1600-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1700-1800.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1800-1880.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1880-1914.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1914-1930.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1930-1945.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1945-1970.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-1970-2026.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/period-400-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/periods.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-botticelli-venus.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-bruegel-babel.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-caravaggio-matthew.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-courbet-studio.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-durer-self.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-fan-travelers.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-giotto-lamentation.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-goya-third.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-gu-admonitions.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-hokusai-wave.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-huang-fuchun.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-klimt-kiss.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-leonardo-mona-lisa.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-ma-deer.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-michelangelo-adam.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-monet-sunrise.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-muqi-willow.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-ni-woods.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-raphael-athens.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-rembrandt-night-watch.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-shen-loft-lu.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-titian-magi.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-turner-temeraire.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-van-eyck-arnolfini.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-van-gogh-starry.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-velazquez-meninas.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-vermeer-pearl.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-wang-thousand-li.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-xu-tianheng.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/reading-zhang-qingming.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/readings.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-britain.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-china.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-france.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-german-speaking.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-iberia.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-italy.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-japan.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/region-low-countries.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/regions.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-aerial-perspective.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-chiaroscuro.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-collage.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-engraving.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-fresco.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-glazing.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-gold-ground.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-impasto.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-ink.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-linear-perspective.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-lithography.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-oil.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-scroll-mounting.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-sfumato.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-tempera.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-tenebrism.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-watercolor.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/technique-woodblock.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/techniques.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/timeline.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-body.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-city.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-everyday.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-faith.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-light.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-nature.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-portrait.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trail-war.html</loc></url>
-  <url><loc>https://paint.chenhua.net/history/trails.html</loc></url>
-  <url><loc>https://paint.chenhua.net/</loc></url>
-  <url><loc>https://paint.chenhua.net/legal/</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-charioteer-riding-through-a-rocky-landscape-with-an-entourag-1616.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-courtier-possibly-khan-alam-holding-a-spinel-and-a-deccan-sw-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-european-couple-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-genoese-lady-with-her-child-1623.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-hundred-birds-and-the-three-friends-1400.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-mounted-prince-hunting-lion-in-a-rocky-landscape-1595.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-prunus-in-the-moonlight-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/a-vignette-of-life-on-the-frontier-1717.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/adoration-of-the-magi-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/aivazovsky-ninth-wave-1850.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/akbar-mounting-his-horse-page-from-the-chester-beatty-akbar-na-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/akbar-supervising-the-capture-of-wild-elephants-at-malwa-in-15-1596.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/albertina-488581-1791.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/albertina-488584-1791.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/albertina-488585-1789.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/albertina-488586-1789.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-calligraphy-and-paintings-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-painting-illustrating-old-poems-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-a-man-recl-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-a-scholar--1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-boy-holdin-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-boy-tendin-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-children-p-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-listening--1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-man-restin-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-man-with-a-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-scholar-un-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-scholar-wa-1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-three-big--1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-two-women--1745.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/an-ambassador-before-humayun-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/antelope-and-deer-hunt-1602.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/artemisia-judith-1620.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-0d3092e4.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-256d170f.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-27bcc7d5.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-2df8ce6f.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-505fc4ea.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-580fb4aa.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-58575fef.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-62ae36e0.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-723f2014.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-78b2a883.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-91d0ab3b.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-9afb2e56.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-9fd3fc18.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-ad61b00e.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-aed4a918.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-ba3dba36.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-c6739d13.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-d49e9fd0.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-d713ad77.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-dd7aafa6.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-e13d5cd2.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-e80436fe.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/auto-f2dad429.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bamboo-and-ducks-by-a-rushing-stream-1127.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bamboo-and-insects-1190.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bamboo-in-the-wind-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bamboo-pavilion-tiger-hill-from-twelve-views-of-tiger-hill-suz-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bamboo-rock-and-tall-tree-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/baoyang-lake-1583.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/barbarian-royalty-worshiping-the-buddha-900.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/beckmann-perseus-last-duty-1949.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bejeweled-buddha-preaching-1648.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/birds-and-flowers-1440.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/birds-on-a-tree-above-a-cataract-1127.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/boecklin-isle-of-the-dead-1883.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bone-weymouth-victory-day-1946.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bosch-garden-earthly-delights-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/botticelli-birth-of-venus-1485.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/botticelli-primavera-1480.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/boucher-music-dance-1740.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bruegel-hunters-in-snow-1565.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/bruegel-tower-of-babel-1563.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/budai-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/buddha-in-the-preaching-attitude-618.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/buddhist-retreat-by-stream-and-mountains-960.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/buffalo-and-boy-in-autumnal-landscape-1127.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/calligraphy-of-chaghatai-turkish-poems-in-praise-of-wine-verso-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/caravaggio-calling-of-matthew-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/caravaggio-judith-1599.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/castiglione-hundred-horses-1728.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-119-14-1427.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-119-15-1427.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-119-3-1427.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-119-36-1427.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-194-1527.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-per-276-205-1671.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-thi-1310-1797.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-thi-1314-1795.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-912-1740.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-914-1730.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-916-1750.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-942-1-1690.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-942-2-1690.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cbl-w-949-1755.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cezanne-mont-sainte-victoire-1904.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cezanne-the-brook-1898.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/chardin-kitchen-utensils-1734.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/chardin-the-ray-1728.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/children-at-play-1508.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/chinese-literatus-in-an-autumn-landscape-1475.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/christ-in-a-mandorla-with-the-instruments-of-the-passion-with--1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/christ-on-the-cross-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/christ-with-joseph-of-arimathea-1520.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/circumcision-ceremony-for-akbar-s-sons-painting-126-from-an-ak-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1915-216-1750.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1915-680-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1916-1030-1761.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1916-1150-1790.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1916-1152-1792.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1916-1153-1792.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1916-1154-1740.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1917-1067-1675.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1920-1967-1735.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1921-322-1787.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1921-336-1760.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1921-345-1791.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1924-1012-1370.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1924-427-1265.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1924-746-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1925-1239-5-1735.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1925-985-1580.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1927-197-1400.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1928-16-1571.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1928-643-1647.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1929-96-1726.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1932-119-1470.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1932-227-1488.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1933-453-1785.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1936-496-1395.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1938-422-1185.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1939-507-1100.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1939-508-1570.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1940-1197-1580.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1941-552-1795.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1941-566-1770.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1942-1151-1796.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1943-559-1650.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1944-490-1475.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1944-490-b-1450.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1944-494-a-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1944-494-b-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1945-171-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1947-70-1455.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1949-227-1690.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1950-374-1360.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1951-314-1295.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1951-454-1645.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1955-302-8-1668.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1955-37-6-1684.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1958-117-1519.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1958-472-1635.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1959-310-1738.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1960-30-1512.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1961-35-c-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1961-423-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-129-b-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-200-b-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-240-b-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-30-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-328-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-45-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1962-279-97-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1963-500-1375.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1964-150-1458.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1967-63-1660.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1968-190-1095.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1968-206-1345.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1969-35-1785.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1969-65-1695.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1970-30-1630.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1971-1-1675.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1971-171-1520.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1971-89-1590.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1973-104-1785.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1974-35-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1974-39-1747.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1974-6-1730.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1975-80-1690.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1977-207-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1978-68-1150.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1980-188-1-1788.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1981-95-1648.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1982-170-1550.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1982-179-34-1650.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1982-25-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1982-36-1720.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1983-69-1634.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1983-73-1290.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1984-59-1777.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1984-71-1529.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1985-132-1400.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1985-191-b-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1985-279-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1985-309-1765.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1985-71-2-1788.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1986-63-1775.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1987-161-1795.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1987-37-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1988-16-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1989-104-1150.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1989-246-1713.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1989-340-1795.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1989-52-1769.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1989-67-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1991-157-1537.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1992-84-1795.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1996-210-1742.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1997-305-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1998-102-1747.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1998-78-5-1583.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-1999-212-1440.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2000-2-1746.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2001-76-1420.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2003-6-3-1798.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2006-13-a-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2009-342-2-1350.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2010-154-1420.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2011-59-1435.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-289-b-1635.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-290-1675.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-294-1570.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-298-1580.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-319-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-329-1645.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-331-1640.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-341-1755.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2013-350-1755.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2015-480-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2015-512-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2015-517-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2017-65-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-117-1755.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-126-1630.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-145-1710.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-174-1770.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-191-1680.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-194-1665.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-197-1730.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2018-94-1715.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2019-81-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2020-228-1504.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2025-123-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2025-138-1336.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2025-40-1662.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2025-68-1662.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cle-2025-9-1680.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cloud-climbing-pavilion-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/constable-hay-wain-1821.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/cottages-in-a-misty-grove-in-autumn-1117.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/courbet-painters-studio-1855.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/crossing-at-sano-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/crucifix-with-scenes-of-the-passion-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/dana-1618.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/david-cupid-psyche-1817.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/david-death-of-marat-1793.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/david-oath-of-horatii-1784.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/david-young-woman-turban-1780.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/degas-dance-class-1874.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/delacroix-liberty-1830.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/delaunay-eiffel-tower-1911.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/diana-and-her-nymphs-departing-for-the-hunt-1610.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/diptych-with-twelve-apostles-st-paul-1675.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/distant-view-of-tiger-hill-from-the-canal-mooring-from-twelve--1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/dohras-songs-from-the-kitab-i-nauras-of-sultan-ibrahim-adil-sh-1617.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/dragon-tiger-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/drinking-in-the-moonlight-1189.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/duccio-maesta-1308.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/durer-melencolia-i-1514.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/durer-self-portrait-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/dwelling-in-the-longmian-sleeping-dragon-mountains-1100.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/eighteen-views-of-huzhou-1583.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/el-greco-view-of-toledo-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/emperor-minghuang-teaching-yang-gueifei-to-play-the-flute-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fan-kuan-travelers-1025.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fan-shaped-album-painting-1368.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fishermen-hermits-in-stream-and-mountain-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/five-pine-trees-1747.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/flowers-and-birds-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/flowers-in-a-glass-1606.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-141-from-a-kalpa-sutra-and-story-of-kalakacharya-text-re-1286.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-167-from-a-kalpa-sutra-and-story-of-kalakacharya-two-nun-1278.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-a-monk-preaching-recto-text-verso-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-and-story-of-kalakacharya-monk-hold-1286.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-and-story-of-kalakacharya-of-devach-1279.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-2-from-a-parshvanatha-charitra-life-and-stories-of-lord--1270.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-22-from-a-yoga-shastra-of-hemachandra-jain-monk-with-dis-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/folio-from-a-kalpa-sutra-and-story-of-kalakacharya-of-devachan-1279.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/four-seated-masters-1445.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fragment-with-a-head-of-bodhisattva-600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fragonard-boy-red-cloak-1780.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/fragonard-the-swing-1767.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/friedrich-wanderer-1818.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/full-sail-on-the-misty-river-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/gauguin-where-do-we-come-from-1898.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ghatotkacha-and-three-demons-in-his-company-chase-bhagadatta-f-1616.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/giotto-lamentation-1305.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/goya-saturn-1820.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/goya-third-of-may-1814.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/green-tara-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/gris-portrait-of-picasso-1912.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/gu-kaizhi-admonitions-scroll-400.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-crosslings-3-2004.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-frame-2003.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-horizontal-1993.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-sun-1990.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-sunday-1987.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/heijnsbroek-winter-1984.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/herdboys-and-buffalo-in-landscape-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/herdboys-and-buffalo-in-landscapes-1250.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hiroshige-shono-driving-rain-1833.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hiroshige-sudden-shower-1857.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hokusai-great-wave-1831.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hokusai-south-wind-clear-sky-1831.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/holy-family-with-a-shepherd-1520.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/holy-family-with-the-mystic-marriage-of-saint-catherine-1550.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hotei-1475.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/huang-gongwang-fuchun-1350.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/huang-gongwang-summer-mountains-1350.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hunting-near-hartenfels-castle-1540.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hunting-with-falcons-in-a-landscape-recto-1553.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/hunting-with-falcons-in-a-landscape-verso-calligraphy-of-chagh-1553.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/illuminated-page-verso-from-a-panj-ganj-five-treasures-of-abd--1603.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ingres-antiochus-stratonice-1838.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ingres-grande-odalisque-1814.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ink-plum-1488.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/inp-moldovita-1537.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/inp-sucevita-1586.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/inp-voronet-1488.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/isfandiyar-slays-arjasp-the-king-of-turan-from-a-shah-nama-boo-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/jain-ascetic-walking-along-a-riverbank-1595.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kamisaka-chrysanthemum-boy-1909.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kandinsky-composition-vii-1913.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kingfisher-perched-above-a-stream-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kirchner-mountain-landscape-1918.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kirchner-street-berlin-1913.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/kirchner-wrestlers-circus-1909.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/klimt-the-kiss-1908.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-after-jing-hao-and-guan-tong-1700.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-after-ni-zan-1707.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-in-the-style-of-juran-1368.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-ink-play-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-of-the-four-seasons-1450.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-with-fishermen-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-with-flying-geese-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/landscape-with-saint-john-the-baptist-1535.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/lazarus-and-the-rich-man-1545.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/leaping-carp-1368.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/leonardo-last-supper-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/leonardo-mona-lisa-1503.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/lions-and-fox-in-a-rugged-landscape-1576.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/listening-to-the-qin-zither-1150.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/lohan-immortal-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/madonna-and-child-in-a-niche-1520.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/magpies-and-wild-rabbits-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/malevich-black-square-1915.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/man-buffalo-and-calf-1145.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/manet-bar-folies-bergere-1882.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/manet-dejeuner-sur-herbe-1863.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/manet-olympia-1863.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/masaccio-expulsion-1427.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-451285-1515.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-451964-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-451967-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-451969-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-453272-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-454343-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-457782-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-457804-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-822698-1570.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/met-825727-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/michelangelo-creation-of-adam-1511.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/millet-the-gleaners-1857.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/mondrian-composition-red-blue-yellow-1930.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/mondrian-composition-red-yellow-blue-1927.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/monet-impression-sunrise-1872.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/monet-red-kerchief-1870.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/monk-preaching-to-a-disciple-with-a-lay-audience-folio-2-recto-1270.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/moreau-jupiter-semele-1895.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/morisot-the-cradle-1872.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/munch-evening-melancholy-1896.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/munch-the-scream-1893.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/muqi-dragon-1260.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/mural-fragment-with-elite-male-and-maguey-cactus-leaves-500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/nagarjuna-c-150-250-ce-with-a-buddhist-master-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/narcissus-and-rocks-1368.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ni-zan-woods-valleys-1355.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/oerder-still-life-1900.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/old-trees-by-a-cool-spring-1326.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/one-hundred-children-at-play-1100.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/page-from-the-mirror-of-holiness-mir-at-al-quds-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/palace-landscape-1000.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/parmigianino-entombment-1529.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/parmigianino-madonna-long-neck-1535.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/pissarro-boulevard-montmartre-night-1897.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/pissarro-rue-saint-lazare-1897.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/plum-blossoms-in-moonlight-1300.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/poem-card-from-the-shinkokin-wakashu-new-collection-of-japanes-1606.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-kneeling-holy-man-from-the-prince-salim-album-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-1510.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-possibly-girolamo-rosati-1533.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-prelate-1540.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1513.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1540.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1550.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1620.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-as-saint-catherine-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-possibly-a-novice-of-san-secondo-1485.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-possibly-elizabeth-boothby-1619.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-young-man-1525.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-a-youth-as-saint-sebastian-1485.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-an-old-man-1525.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-an-qi-1715.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-isabella-brant-1620.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-king-louis-xiii-of-france-1611.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-machtelt-suijs-1540.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-maria-kitscher-frau-von-freyberg-1545.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/portrait-of-pope-sixtus-iv-della-rovere-1476.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/posada-calavera-catrina-1910.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/posada-frivolous-frog-1910.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/posada-jesus-negrete-1910.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/poussin-holy-family-steps-1648.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/quails-and-sparrows-in-an-autumn-scene-1347.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/ramblers-over-a-winding-stream-1320.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/raphael-school-of-athens-1511.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/redon-vase-flowers-1905.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rembrandt-night-watch-1642.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rembrandt-self-portrait-1669.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/renoir-bal-moulin-galette-1876.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/repin-barge-haulers-1873.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rest-on-the-flight-into-egypt-1624.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-655.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-656.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-658.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-659.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-661.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1909-1648-1730.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/river-village-fisherman-s-joy-1298.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/river-village-in-a-rainstorm-1475.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/road-to-shu-1743.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/rubens-descent-from-cross-1614.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/saint-jerome-1616.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/samson-and-delilah-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/sargent-madame-x-1884.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/schiele-portrait-child-1916.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/schiele-self-portrait-1912.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/scholar-reclining-and-watching-rising-clouds-poem-by-wang-wei-1251.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/seurat-grande-jatte-1886.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/seven-leaves-from-a-manuscript-of-the-gandavyuha-sutra-scriptu-1000.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/shakyamuni-triad-buddha-attended-by-manjushri-and-samantabhadr-850.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/sheeler-church-street-el-1920.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/shen-zhou-loft-mount-lu-1467.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/shitao-thirty-six-peaks-1705.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/sleeping-bird-on-a-prunus-branch-1426.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/snowscape-with-figures-1584.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/squirrel-on-a-pine-branch-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/still-life-with-meat-fish-vegetables-and-fruit-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/still-life-with-sweets-1622.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/streams-and-mountains-1372.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/su-dongpo-riding-a-donkey-1575.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/su-shi-so-shoku-and-pan-lang-han-r-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/summer-and-winter-landscapes-1607.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/swallow-and-lotus-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/swinging-gibbon-1180.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-jupiter-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-luna-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-mars-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-mercury-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-sun-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tarocchi-venus-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/terminus-the-device-of-erasmus-1527.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/text-folio-2-verso-from-a-parshvanatha-charitra-life-and-stori-1270.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/thangka-with-amitayus-1600.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-astrologer-predicts-a-calamity-for-the-newly-born-prince-i-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-autumn-hunt-1196.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-baptism-of-christ-1530.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-crucifixion-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-crucifixion-of-saint-andrew-1606.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-crucifixion-of-st-andrew-with-st-francis-and-st-paul-below-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-deceitful-wife-ejects-the-procuress-after-blackening-her-f-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-deceitful-wife-returns-to-her-terrace-after-caressing-her--1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-donkey-in-a-tiger-s-skin-reveals-his-identity-by-braying-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-enlightened-stone-retreat-from-twelve-views-of-tiger-hill--1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-five-sages-terrace-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-fool-s-spring-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-football-players-1189.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-handmaiden-again-pleads-for-the-death-of-the-prince-from-a-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-haven-of-the-peach-blossom-spring-1445.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-hermit-xu-you-resting-by-a-stream-1400.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-hunter-offers-the-mother-parrot-to-the-king-of-kamarupa-fr-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-judgment-of-paris-1602.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-knickknack-peddler-1212.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-monkey-slain-his-blood-to-be-used-as-medicine-for-the-aili-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-nodding-stone-terrace-tiger-hill-and-the-thousand-man-seat-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-parrot-addresses-khujasta-at-the-beginning-of-the-eleventh-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-parrot-addresses-khujasta-at-the-beginning-of-the-tenth-ni-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-parrot-mother-cautions-her-young-on-the-danger-of-playing--1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-pine-retreat-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-poet-lin-bu-wandering-in-the-moonlight-1460.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-prince-s-ordeal-continues-he-is-ordered-away-to-be-execute-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-sacrifice-of-isaac-1522.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-second-coming-of-the-fifth-patriarch-1325.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-sword-spring-tiger-hill-from-twelve-views-of-tiger-hill-su-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-tale-of-the-three-men-trapped-in-a-cave-by-a-rolling-bould-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-thousand-acres-of-clouds-from-twelve-views-of-tiger-hill-s-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-thousand-buddha-hall-and-the-pagoda-of-the-cloudy-cliff-mo-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-trinity-1615.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-wife-of-the-son-of-the-vizier-brings-the-magic-wooden-parr-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-woodcutter-of-luofu-1366.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-wounded-monkey-bites-the-hand-of-the-prince-his-chessmate--1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-young-prince-is-crowned-and-the-wicked-handmaiden-is-execu-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/the-young-prince-recounts-his-experiences-to-his-father-the-ki-1555.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/tiger-flight-spring-at-the-back-gate-from-twelve-views-of-tige-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/titian-submersion-pharaoh-1549.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/travelers-by-a-lake-1625.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/travelers-in-autumn-mountains-1310.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/trouillebert-elevated-railway-vincennes-1888.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/turner-burning-houses-1835.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/turner-fighting-temeraire-1839.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/twelve-views-of-tiger-hill-1491.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/twenty-three-deity-nairatma-mandala-1370.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/utamaro-three-beauties-1793.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/vabhruvahana-approaches-arjuna-page-from-the-khan-khanan-s-raz-1605.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/vajradhara-nairatmya-and-mahasiddhas-virupa-and-kanha-1445.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/van-eyck-arnolfini-1434.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/van-gogh-starry-night-1889.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/van-gogh-sunflowers-1888.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/velazquez-jester-calabazas-1632.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/velazquez-las-meninas-1656.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/vermeer-girl-pearl-earring-1665.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/vermeer-view-of-delft-1660.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/view-of-xiao-xiang-1478.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/violin-player-with-a-wine-glass-1623.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-angels-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-john-the-baptist-and-angels-1495.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-and-donors-1510.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/votive-initiation-card-tsakali-with-preaching-buddha-shakyamun-1000.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wang-ximeng-thousand-li-1113.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/watching-the-deer-by-a-pine-shaded-stream-1127.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/water-moon-kannon-1490.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/waterfowl-and-reeds-1200.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/watteau-pilgrimage-cythera-1717.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/watteau-romancer-study-1716.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wellcome-v0044822-1777.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wellcome-v0044828-1777.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wellcome-v0044832-1777.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wellcome-v0044841-1777.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wenban-railroad-station-1883.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wenning-rhodes-memorial-1916.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/weyden-descent-from-cross-1435.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/whistler-arrangement-grey-black-1871.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/whistler-charing-cross-bridge-1896.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wild-geese-1580.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/willow-and-magpie-1225.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/winter-and-summer-flowers-1595.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/winter-landscape-1500.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/wood-american-gothic-1930.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/writing-books-under-the-pine-trees-1303.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/xu-beihong-tianheng-five-hundred-1930.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/xu-wei-grapes-1580.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/yoshimura-howling-wolf-1912.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/zhang-zeduan-qingming-scroll-1100.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/zulaykha-in-her-palace-and-as-an-elderly-woman-with-joseph-rec-1603.html</loc></url>
-  <url><loc>https://paint.chenhua.net/painting/zulaykha-in-her-palace-and-as-an-old-woman-with-joseph-from-a--1603.html</loc></url>
-  <url><loc>https://paint.chenhua.net/records/1400-1800/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/1800-1914/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/1914-1945/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/1945-1990/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/1990-2026/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/</loc></url>
-  <url><loc>https://paint.chenhua.net/records/pre1400/</loc></url>
-  <url><loc>https://chenhua.net/search/?scope=paintings</loc></url>
-  <url><loc>https://paint.chenhua.net/stories/</loc></url>
+<url><loc>https://paint.chenhua.net/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/gallery/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/legal/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/city/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/animal-court/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/gold-and-light/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/landscape-nature/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/madonna-bodhisattva/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/war-disaster/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/compare/word-in-image/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/dashboard/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/faith/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/guide/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/landscape/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/material/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/portrait/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/africa/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/central-asia/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/china/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/cross-regional/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/east-asia/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/europe/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/gaps/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/oceania/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/south-asia/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/southeast-asia/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/regions/west-asia-north-africa/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/animal-human/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/body-cloth/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/city-ports/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/copy-original/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/daily-time/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/death-memory/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/dream-vision/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/sacred-faces/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/traveling-images/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/unknown-makers/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/water-coast/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/topics/women-visible/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/early/word/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/themes/</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/gu-kaizhi-admonitions-scroll-400.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/mural-fragment-with-elite-male-and-maguey-cactus-leaves-500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fragment-with-a-head-of-bodhisattva-600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/buddha-in-the-preaching-attitude-618.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/shakyamuni-triad-buddha-attended-by-manjushri-and-samantabhadr-850.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/barbarian-royalty-worshiping-the-buddha-900.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/buddhist-retreat-by-stream-and-mountains-960.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/seven-leaves-from-a-manuscript-of-the-gandavyuha-sutra-scriptu-1000.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/palace-landscape-1000.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/votive-initiation-card-tsakali-with-preaching-buddha-shakyamun-1000.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fan-kuan-travelers-1025.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1968-190-1095.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1939-507-1100.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/dwelling-in-the-longmian-sleeping-dragon-mountains-1100.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/zhang-zeduan-qingming-scroll-1100.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/one-hundred-children-at-play-1100.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wang-ximeng-thousand-li-1113.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cottages-in-a-misty-grove-in-autumn-1117.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/watching-the-deer-by-a-pine-shaded-stream-1127.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bamboo-and-ducks-by-a-rushing-stream-1127.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/birds-on-a-tree-above-a-cataract-1127.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/buffalo-and-boy-in-autumnal-landscape-1127.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/man-buffalo-and-calf-1145.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/listening-to-the-qin-zither-1150.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1978-68-1150.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1989-104-1150.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/swinging-gibbon-1180.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1938-422-1185.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/drinking-in-the-moonlight-1189.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-football-players-1189.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bamboo-and-insects-1190.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-autumn-hunt-1196.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1961-423-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/magpies-and-wild-rabbits-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1987-37-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/waterfowl-and-reeds-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1974-35-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/full-sail-on-the-misty-river-1200.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-knickknack-peddler-1212.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-crucifixion-of-st-andrew-with-st-francis-and-st-paul-below-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/crucifix-with-scenes-of-the-passion-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/christ-in-a-mandorla-with-the-instruments-of-the-passion-with--1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/willow-and-magpie-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/swallow-and-lotus-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-with-flying-geese-1225.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-22-from-a-yoga-shastra-of-hemachandra-jain-monk-with-dis-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-a-monk-preaching-recto-text-verso-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/herdboys-and-buffalo-in-landscape-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/green-tara-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bamboo-in-the-wind-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/herdboys-and-buffalo-in-landscapes-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/dragon-tiger-1250.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/scholar-reclining-and-watching-rising-clouds-poem-by-wang-wei-1251.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/muqi-dragon-1260.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1924-427-1265.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/monk-preaching-to-a-disciple-with-a-lay-audience-folio-2-recto-1270.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-2-from-a-parshvanatha-charitra-life-and-stories-of-lord--1270.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/text-folio-2-verso-from-a-parshvanatha-charitra-life-and-stori-1270.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-167-from-a-kalpa-sutra-and-story-of-kalakacharya-two-nun-1278.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-from-a-kalpa-sutra-and-story-of-kalakacharya-of-devachan-1279.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-and-story-of-kalakacharya-of-devach-1279.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-141-from-a-kalpa-sutra-and-story-of-kalakacharya-text-re-1286.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/folio-2-from-a-kalpa-sutra-and-story-of-kalakacharya-monk-hold-1286.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1983-73-1290.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1951-314-1295.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/river-village-fisherman-s-joy-1298.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-ink-play-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-prunus-in-the-moonlight-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/plum-blossoms-in-moonlight-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fishermen-hermits-in-stream-and-mountain-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bamboo-rock-and-tall-tree-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/flowers-and-birds-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1982-25-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/nagarjuna-c-150-250-ce-with-a-buddhist-master-1300.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/writing-books-under-the-pine-trees-1303.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/giotto-lamentation-1305.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/duccio-maesta-1308.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/travelers-in-autumn-mountains-1310.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ramblers-over-a-winding-stream-1320.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-second-coming-of-the-fifth-patriarch-1325.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/old-trees-by-a-cool-spring-1326.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2025-138-1336.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1968-206-1345.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/quails-and-sparrows-in-an-autumn-scene-1347.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/huang-gongwang-summer-mountains-1350.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/huang-gongwang-fuchun-1350.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2009-342-2-1350.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ni-zan-woods-valleys-1355.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1950-374-1360.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-woodcutter-of-luofu-1366.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-in-the-style-of-juran-1368.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fan-shaped-album-painting-1368.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/narcissus-and-rocks-1368.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/leaping-carp-1368.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/twenty-three-deity-nairatma-mandala-1370.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1924-1012-1370.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/streams-and-mountains-1372.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1963-500-1375.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1936-496-1395.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1927-197-1400.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-hundred-birds-and-the-three-friends-1400.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1985-132-1400.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-hermit-xu-you-resting-by-a-stream-1400.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2001-76-1420.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2010-154-1420.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/sleeping-bird-on-a-prunus-branch-1426.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-119-3-1427.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-119-14-1427.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-119-15-1427.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-119-36-1427.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/masaccio-expulsion-1427.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/van-eyck-arnolfini-1434.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/weyden-descent-from-cross-1435.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2011-59-1435.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1999-212-1440.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/birds-and-flowers-1440.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/four-seated-masters-1445.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-haven-of-the-peach-blossom-spring-1445.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/vajradhara-nairatmya-and-mahasiddhas-virupa-and-kanha-1445.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-of-the-four-seasons-1450.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1944-490-b-1450.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1947-70-1455.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1964-150-1458.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-luna-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-mercury-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/budai-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/emperor-minghuang-teaching-yang-gueifei-to-play-the-flute-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-poet-lin-bu-wandering-in-the-moonlight-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-jupiter-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kingfisher-perched-above-a-stream-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-mars-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-sun-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tarocchi-venus-1460.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/shen-zhou-loft-mount-lu-1467.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1932-119-1470.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hotei-1475.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/river-village-in-a-rainstorm-1475.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1944-490-1475.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/chinese-literatus-in-an-autumn-landscape-1475.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-pope-sixtus-iv-della-rovere-1476.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/view-of-xiao-xiang-1478.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/botticelli-primavera-1480.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-youth-as-saint-sebastian-1485.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-possibly-a-novice-of-san-secondo-1485.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/botticelli-birth-of-venus-1485.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1932-227-1488.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ink-plum-1488.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/inp-voronet-1488.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/water-moon-kannon-1490.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-thousand-acres-of-clouds-from-twelve-views-of-tiger-hill-s-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-pine-retreat-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-enlightened-stone-retreat-from-twelve-views-of-tiger-hill--1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/distant-view-of-tiger-hill-from-the-canal-mooring-from-twelve--1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/tiger-flight-spring-at-the-back-gate-from-twelve-views-of-tige-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-nodding-stone-terrace-tiger-hill-and-the-thousand-man-seat-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cloud-climbing-pavilion-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-five-sages-terrace-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-thousand-buddha-hall-and-the-pagoda-of-the-cloudy-cliff-mo-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bamboo-pavilion-tiger-hill-from-twelve-views-of-tiger-hill-suz-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-sword-spring-tiger-hill-from-twelve-views-of-tiger-hill-su-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-fool-s-spring-from-twelve-views-of-tiger-hill-suzhou-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/twelve-views-of-tiger-hill-1491.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-john-the-baptist-and-angels-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/leonardo-last-supper-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2006-13-a-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1977-207-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1985-191-b-1495.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bosch-garden-earthly-delights-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/adoration-of-the-magi-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1924-746-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-angels-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2015-517-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1989-67-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/squirrel-on-a-pine-branch-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/durer-self-portrait-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/calligraphy-of-chaghatai-turkish-poems-in-praise-of-wine-verso-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-crucifixion-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2015-512-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/winter-landscape-1500.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/leonardo-mona-lisa-1503.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2020-228-1504.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/children-at-play-1508.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/virgin-and-child-with-saints-and-donors-1510.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-1510.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/michelangelo-creation-of-adam-1511.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/raphael-school-of-athens-1511.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1960-30-1512.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1513.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/durer-melencolia-i-1514.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-451285-1515.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/titian-submersion-pharaoh-1549.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1958-117-1519.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/holy-family-with-a-shepherd-1520.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/madonna-and-child-in-a-niche-1520.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/christ-with-joseph-of-arimathea-1520.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1971-171-1520.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-sacrifice-of-isaac-1522.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-an-old-man-1525.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-young-man-1525.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/terminus-the-device-of-erasmus-1527.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-194-1527.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/parmigianino-entombment-1529.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1984-71-1529.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-baptism-of-christ-1530.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-possibly-girolamo-rosati-1533.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/parmigianino-madonna-long-neck-1535.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-with-saint-john-the-baptist-1535.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1991-157-1537.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/inp-moldovita-1537.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-prelate-1540.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hunting-near-hartenfels-castle-1540.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1540.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-machtelt-suijs-1540.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/lazarus-and-the-rich-man-1545.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-maria-kitscher-frau-von-freyberg-1545.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1982-170-1550.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/holy-family-with-the-mystic-marriage-of-saint-catherine-1550.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1550.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hunting-with-falcons-in-a-landscape-recto-1553.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hunting-with-falcons-in-a-landscape-verso-calligraphy-of-chagh-1553.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-129-b-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-astrologer-predicts-a-calamity-for-the-newly-born-prince-i-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-30-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-wounded-monkey-bites-the-hand-of-the-prince-his-chessmate--1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-as-saint-catherine-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-handmaiden-again-pleads-for-the-death-of-the-prince-from-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-wife-of-the-son-of-the-vizier-brings-the-magic-wooden-parr-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-young-prince-is-crowned-and-the-wicked-handmaiden-is-execu-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-young-prince-recounts-his-experiences-to-his-father-the-ki-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-328-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-200-b-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-donkey-in-a-tiger-s-skin-reveals-his-identity-by-braying-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-hunter-offers-the-mother-parrot-to-the-king-of-kamarupa-fr-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-monkey-slain-his-blood-to-be-used-as-medicine-for-the-aili-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-prince-s-ordeal-continues-he-is-ordered-away-to-be-execute-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-45-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-97-a-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-kneeling-holy-man-from-the-prince-salim-album-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1962-279-240-b-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-parrot-mother-cautions-her-young-on-the-danger-of-playing--1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-tale-of-the-three-men-trapped-in-a-cave-by-a-rolling-bould-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-deceitful-wife-ejects-the-procuress-after-blackening-her-f-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-parrot-addresses-khujasta-at-the-beginning-of-the-eleventh-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-parrot-addresses-khujasta-at-the-beginning-of-the-tenth-ni-1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-deceitful-wife-returns-to-her-terrace-after-caressing-her--1555.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bruegel-tower-of-babel-1563.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bruegel-hunters-in-snow-1565.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1939-508-1570.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-822698-1570.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-294-1570.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1928-16-1571.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-451967-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-451969-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2015-480-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1944-494-a-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-457782-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/su-dongpo-riding-a-donkey-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-451964-1575.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/lions-and-fox-in-a-rugged-landscape-1576.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1925-985-1580.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/xu-wei-grapes-1580.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1940-1197-1580.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wild-geese-1580.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-298-1580.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/eighteen-views-of-huzhou-1583.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1998-78-5-1583.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/baoyang-lake-1583.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/snowscape-with-figures-1584.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/inp-sucevita-1586.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1971-89-1590.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/winter-and-summer-flowers-1595.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/jain-ascetic-walking-along-a-riverbank-1595.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-mounted-prince-hunting-lion-in-a-rocky-landscape-1595.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/akbar-supervising-the-capture-of-wild-elephants-at-malwa-in-15-1596.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/caravaggio-judith-1599.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-courtier-possibly-khan-alam-holding-a-spinel-and-a-deccan-sw-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-825727-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-453272-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/page-from-the-mirror-of-holiness-mir-at-al-quds-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/caravaggio-calling-of-matthew-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/crossing-at-sano-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-454343-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1961-35-c-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/el-greco-view-of-toledo-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/thangka-with-amitayus-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1944-494-b-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-with-fishermen-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/lohan-immortal-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/christ-on-the-cross-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-319-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/su-shi-so-shoku-and-pan-lang-han-r-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/isfandiyar-slays-arjasp-the-king-of-turan-from-a-shah-nama-boo-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/circumcision-ceremony-for-akbar-s-sons-painting-126-from-an-ak-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1915-680-1600.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-judgment-of-paris-1602.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/antelope-and-deer-hunt-1602.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/illuminated-page-verso-from-a-panj-ganj-five-treasures-of-abd--1603.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/zulaykha-in-her-palace-and-as-an-old-woman-with-joseph-from-a--1603.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/zulaykha-in-her-palace-and-as-an-elderly-woman-with-joseph-rec-1603.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-european-couple-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/met-457804-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/vabhruvahana-approaches-arjuna-page-from-the-khan-khanan-s-raz-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/an-ambassador-before-humayun-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2019-81-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/akbar-mounting-his-horse-page-from-the-chester-beatty-akbar-na-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1945-171-1605.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-crucifixion-of-saint-andrew-1606.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/poem-card-from-the-shinkokin-wakashu-new-collection-of-japanes-1606.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/flowers-in-a-glass-1606.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/summer-and-winter-landscapes-1607.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/diana-and-her-nymphs-departing-for-the-hunt-1610.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-king-louis-xiii-of-france-1611.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rubens-descent-from-cross-1614.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/the-trinity-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/samson-and-delilah-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-man-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1985-279-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1988-16-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/still-life-with-meat-fish-vegetables-and-fruit-1615.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/saint-jerome-1616.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ghatotkacha-and-three-demons-in-his-company-chase-bhagadatta-f-1616.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-charioteer-riding-through-a-rocky-landscape-with-an-entourag-1616.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/dohras-songs-from-the-kitab-i-nauras-of-sultan-ibrahim-adil-sh-1617.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/dana-1618.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-possibly-elizabeth-boothby-1619.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-isabella-brant-1620.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-a-woman-1620.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/artemisia-judith-1620.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/still-life-with-sweets-1622.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-genoese-lady-with-her-child-1623.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/violin-player-with-a-wine-glass-1623.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rest-on-the-flight-into-egypt-1624.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/travelers-by-a-lake-1625.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1970-30-1630.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-126-1630.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/velazquez-jester-calabazas-1632.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1983-69-1634.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-289-b-1635.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1958-472-1635.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-331-1640.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rembrandt-night-watch-1642.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1951-454-1645.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-329-1645.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1928-643-1647.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/poussin-holy-family-steps-1648.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bejeweled-buddha-preaching-1648.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1981-95-1648.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1982-179-34-1650.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1943-559-1650.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/velazquez-las-meninas-1656.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/vermeer-view-of-delft-1660.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1967-63-1660.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2025-40-1662.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2025-68-1662.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/vermeer-girl-pearl-earring-1665.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-194-1665.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1955-302-8-1668.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rembrandt-self-portrait-1669.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-per-276-205-1671.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/diptych-with-twelve-apostles-st-paul-1675.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-290-1675.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1917-1067-1675.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1971-1-1675.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-191-1680.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2025-9-1680.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1955-37-6-1684.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-655.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-659.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-661.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-656.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1896-a-19368-658.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1949-227-1690.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-942-1-1690.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-942-2-1690.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1975-80-1690.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1969-65-1695.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-calligraphy-and-paintings-1700.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-after-jing-hao-and-guan-tong-1700.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1997-305-1700.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2017-65-1700.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2025-123-1700.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/shitao-thirty-six-peaks-1705.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/landscape-after-ni-zan-1707.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-145-1710.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1989-246-1713.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-94-1715.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/portrait-of-an-qi-1715.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/watteau-romancer-study-1716.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/watteau-pilgrimage-cythera-1717.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/a-vignette-of-life-on-the-frontier-1717.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1982-36-1720.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1929-96-1726.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/castiglione-hundred-horses-1728.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/chardin-the-ray-1728.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-914-1730.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/rijks-rp-p-1909-1648-1730.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1974-6-1730.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-197-1730.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/chardin-kitchen-utensils-1734.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1925-1239-5-1735.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1920-1967-1735.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1959-310-1738.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1916-1154-1740.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-912-1740.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1996-210-1742.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/road-to-shu-1743.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-three-big--1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-man-with-a-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-a-man-recl-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-two-women--1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-children-p-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-boy-tendin-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-boy-holdin-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-man-restin-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-painting-illustrating-old-poems-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-a-scholar--1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-listening--1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-scholar-un-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/album-of-landscape-paintings-illustrating-old-poems-scholar-wa-1745.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/boucher-music-dance-1740.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2000-2-1746.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/five-pine-trees-1747.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1974-39-1747.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1998-102-1747.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-916-1750.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1915-216-1750.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-w-949-1755.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-341-1755.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2013-350-1755.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-117-1755.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1921-336-1760.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1916-1030-1761.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1985-309-1765.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fragonard-the-swing-1767.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1989-52-1769.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2018-174-1770.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1941-566-1770.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1986-63-1775.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wellcome-v0044822-1777.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1984-59-1777.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wellcome-v0044828-1777.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wellcome-v0044841-1777.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wellcome-v0044832-1777.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/david-young-woman-turban-1780.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/fragonard-boy-red-cloak-1780.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/david-oath-of-horatii-1784.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1969-35-1785.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1973-104-1785.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1933-453-1785.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1921-322-1787.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1985-71-2-1788.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1980-188-1-1788.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/albertina-488586-1789.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/albertina-488585-1789.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1916-1150-1790.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/albertina-488581-1791.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/albertina-488584-1791.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1921-345-1791.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1916-1152-1792.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1916-1153-1792.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/utamaro-three-beauties-1793.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/david-death-of-marat-1793.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1941-552-1795.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-thi-1314-1795.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1989-340-1795.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1992-84-1795.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1987-161-1795.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-1942-1151-1796.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cbl-thi-1310-1797.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cle-2003-6-3-1798.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/goya-third-of-may-1814.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ingres-grande-odalisque-1814.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-d49e9fd0.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/david-cupid-psyche-1817.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/friedrich-wanderer-1818.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/goya-saturn-1820.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-78b2a883.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/constable-hay-wain-1821.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/delacroix-liberty-1830.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hokusai-south-wind-clear-sky-1831.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hokusai-great-wave-1831.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hiroshige-shono-driving-rain-1833.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/turner-burning-houses-1835.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/ingres-antiochus-stratonice-1838.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/turner-fighting-temeraire-1839.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/aivazovsky-ninth-wave-1850.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-d713ad77.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/courbet-painters-studio-1855.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/hiroshige-sudden-shower-1857.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/millet-the-gleaners-1857.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/manet-olympia-1863.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/manet-dejeuner-sur-herbe-1863.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-9afb2e56.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/monet-red-kerchief-1870.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/whistler-arrangement-grey-black-1871.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/monet-impression-sunrise-1872.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/morisot-the-cradle-1872.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/repin-barge-haulers-1873.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/degas-dance-class-1874.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/renoir-bal-moulin-galette-1876.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/manet-bar-folies-bergere-1882.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/boecklin-isle-of-the-dead-1883.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wenban-railroad-station-1883.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/sargent-madame-x-1884.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-0d3092e4.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-e13d5cd2.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-ba3dba36.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-723f2014.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-ad61b00e.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/seurat-grande-jatte-1886.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-aed4a918.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/van-gogh-sunflowers-1888.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/trouillebert-elevated-railway-vincennes-1888.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/van-gogh-starry-night-1889.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-dd7aafa6.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/munch-the-scream-1893.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/moreau-jupiter-semele-1895.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-e80436fe.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/munch-evening-melancholy-1896.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/whistler-charing-cross-bridge-1896.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/pissarro-rue-saint-lazare-1897.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/pissarro-boulevard-montmartre-night-1897.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/gauguin-where-do-we-come-from-1898.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cezanne-the-brook-1898.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/oerder-still-life-1900.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-62ae36e0.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-580fb4aa.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-27bcc7d5.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-9fd3fc18.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-58575fef.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-2df8ce6f.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-256d170f.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-91d0ab3b.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/cezanne-mont-sainte-victoire-1904.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/redon-vase-flowers-1905.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/klimt-the-kiss-1908.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kamisaka-chrysanthemum-boy-1909.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kirchner-wrestlers-circus-1909.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/posada-calavera-catrina-1910.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/posada-jesus-negrete-1910.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/posada-frivolous-frog-1910.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/delaunay-eiffel-tower-1911.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/schiele-self-portrait-1912.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/gris-portrait-of-picasso-1912.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/yoshimura-howling-wolf-1912.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kandinsky-composition-vii-1913.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kirchner-street-berlin-1913.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/malevich-black-square-1915.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/schiele-portrait-child-1916.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wenning-rhodes-memorial-1916.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/kirchner-mountain-landscape-1918.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/sheeler-church-street-el-1920.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-f2dad429.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-505fc4ea.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/auto-c6739d13.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/mondrian-composition-red-yellow-blue-1927.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/xu-beihong-tianheng-five-hundred-1930.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/mondrian-composition-red-blue-yellow-1930.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/wood-american-gothic-1930.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/bone-weymouth-victory-day-1946.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/beckmann-perseus-last-duty-1949.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-winter-1984.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-sunday-1987.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-sun-1990.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-horizontal-1993.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-frame-2003.html</loc><lastmod>2026-11-26</lastmod></url>
+<url><loc>https://paint.chenhua.net/painting/heijnsbroek-crosslings-3-2004.html</loc><lastmod>2026-11-26</lastmod></url>
 </urlset>
